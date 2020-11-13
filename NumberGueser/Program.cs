@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace NumberGueser
 {
+    //main class 
     class Program
     {
+        //method inside a class
         static void Main(string[] args)
         {
+            Console
         }
     }
 }
